@@ -9,5 +9,4 @@ Skills: Python, Java, c#
 
 - 🔭 I’m currently working on this page. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShehanIndrajith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shehan-indrajith-47b512216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100090037665318)   
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehanIndrajith&show_icons=true)  

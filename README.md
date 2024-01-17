@@ -7,6 +7,4 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
 
 Skills: Python, Java, c#
 
-- 🔭 I’m currently working on this page. 
-
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehanIndrajith&show_icons=true)  
+- 🔭 I’m currently working on this page.

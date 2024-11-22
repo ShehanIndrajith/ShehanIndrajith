@@ -15,7 +15,8 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
 🔭 I’m currently working on this page.
 
 <h3 align="left">Languages and Tools:</h3>
-### Programming Languages
+
+#### Programming Languages
 <p align="left" space>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -34,7 +35,7 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
   </a>
 </p>
 
-### Frontend Development
+#### Frontend Development
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -50,7 +51,7 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
   </a>
 </p>
 
-### Backend Development
+#### Backend Development
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -63,21 +64,21 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
   </a>
 </p>
 
-### Mobile App Development
+#### Mobile App Development
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>
 </p>
 
-### AI/ML
+#### AI/ML
 <p align="left">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
 </p>
 
-### Database
+#### Database
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -90,21 +91,21 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
   </a>
 </p>
 
-### DevOps
+#### DevOps
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
-### Backend as a Service (BaaS)
+#### Backend as a Service (BaaS)
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
 </p>
 
-### Framework
+#### Framework
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -114,7 +115,7 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
   </a>
 </p>
 
-### Software
+#### Software
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -122,9 +123,12 @@ As a technology enthusiast, I constantly seek out new advancements and trends in
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
 
-### Other
+#### Other
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
